@@ -3,8 +3,8 @@ Weather-Classification Model uses K-Nearest Neighbors (KNN) to classify local we
 
 ## References 
 
-1: [K nearest neighbors](https://www.youtube.com/watch?v=CQveSaMyEwM) classification with Python code
-2: KNN from scratch by [AssemblyAi](https://www.youtube.com/watch?v=rTEtEy5o3X0)
+1. [K nearest neighbors](https://www.youtube.com/watch?v=CQveSaMyEwM) classification with Python code
+2. KNN from scratch by [AssemblyAi](https://www.youtube.com/watch?v=rTEtEy5o3X0)
 
 ## DataGraph
 
