@@ -11,3 +11,5 @@ Weather-Classification Model uses K-Nearest Neighbors (KNN) to classify local we
 ![Graph](https://github.com/SadhaSivamx/Weather-Classification-Model/assets/106687593/579acba8-fbbd-4f3c-9924-b5140fdec757)
 
 ## Output
+
+![Project-Template (3)](https://github.com/SadhaSivamx/Weather-Classification-Model/assets/106687593/9d2a6ad4-43fc-4f47-9dff-80e8cc64729e)
